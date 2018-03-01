@@ -1,0 +1,6 @@
+.lobby {
+    -fx-background-image: url("img/background.png");
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+    -fx-background-size: 1000 560;
+}
